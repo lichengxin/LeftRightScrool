@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="9302987433924"
+    token="-8886191577641217306"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="85" />
+    <task
+        name="instant-run-dex"
+        duration="357" />
+    <task
+        name="instant-run-transform"
+        duration="13" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="F:\GithubClone\LeftRightScrool\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="7995847517304" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="9016191650898"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9016191650898\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9117667645035"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9117667645035\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9148386174751"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9148386174751\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9169101932152"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9169101932152\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9255426135247"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9255426135247\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9264750548176"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9264750548176\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9289340090302"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\builds\debug\9289340090302\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9302987433924"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\GithubClone\LeftRightScrool\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\GithubClone\\LeftRightScrool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_view.xml",
+        "source": "F:\\GithubClone\\LeftRightScrool\\app\\src\\main\\res\\layout\\layout_tab_view.xml"
+    },
+    {
+        "merged": "F:\\GithubClone\\LeftRightScrool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_right_tab.xml",
+        "source": "F:\\GithubClone\\LeftRightScrool\\app\\src\\main\\res\\layout\\layout_right_tab.xml"
+    },
+    {
+        "merged": "F:\\GithubClone\\LeftRightScrool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_left_title.xml",
+        "source": "F:\\GithubClone\\LeftRightScrool\\app\\src\\main\\res\\layout\\layout_left_title.xml"
+    },
+    {
+        "merged": "F:\\GithubClone\\LeftRightScrool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_left_item.xml",
+        "source": "F:\\GithubClone\\LeftRightScrool\\app\\src\\main\\res\\layout\\layout_left_item.xml"
+    },
+    {
+        "merged": "F:\\GithubClone\\LeftRightScrool\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_right_item.xml",
+        "source": "F:\\GithubClone\\LeftRightScrool\\app\\src\\main\\res\\layout\\layout_right_item.xml"
+    }
+]

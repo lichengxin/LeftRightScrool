@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\GithubClone\LeftRightScrool\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ae51cd7271d68d7414781f62c530907cb861ea23\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubClone\LeftRightScrool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f0456f24283e0525614578d807db41467ec02c78">
+        <dex dex="F:\GithubClone\LeftRightScrool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d479ddfc317dd0ba4612332beb68925ed8f60d8e\classes.dex" />
+    </item>
+    <item
+        jar="F:\GithubClone\LeftRightScrool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d989a4157f8ac82769c846ca6929650bf639afd7">
+        <dex dex="F:\GithubClone\LeftRightScrool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c331b67e217cc60152db0026dbd64d265ea0a43\classes.dex" />
+    </item>
+
+</items>
